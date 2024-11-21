@@ -2,6 +2,7 @@
 layout: post
 title: 2024 Portfolio Achievements
 subtitle: The path I walked
+thumbnail-img: /assets/img/portpolio.img.webp
 tags: [portfolio, achievements, 2024]
 comments: true
 author: Yu Gyeong Min
